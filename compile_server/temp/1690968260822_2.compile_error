@@ -1,0 +1,4 @@
+./temp/1690968260822_2.cpp: In member function ‘int Solution::Max(const std::vector<int>&)’:
+./temp/1690968260822_2.cpp:13:19: error: ‘INT_MIN’ was not declared in this scope
+         int ret = INT_MIN;
+                   ^
